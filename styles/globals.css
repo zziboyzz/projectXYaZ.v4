@@ -1,0 +1,9 @@
+.resize_mobile {
+    min-height: 50px;
+}
+
+@media only screen and (max-width: 500px) {
+    .resize_mobile {
+        min-height: 85px;
+    }
+}
